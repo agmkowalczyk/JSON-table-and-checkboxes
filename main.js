@@ -1,4 +1,4 @@
-const url = 'http://127.0.0.1:8887/';
+const url = 'https://agmkowalczyk.github.io/JSON-table-and-checkboxes/';
 let state = [],
     lastPage = '';
 
