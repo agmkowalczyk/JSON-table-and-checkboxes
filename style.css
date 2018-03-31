@@ -1,0 +1,31 @@
+html {
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+table {
+  border: 1px solid gray;
+}
+
+td, th {
+  border: none;
+  border-bottom: 1px solid gray;
+  padding: 7px 20px;
+}
+
+button {
+  background: #fff;
+  border: 1px solid gray;
+  border-radius: 5px;
+  color: gray;
+  padding: 10px 20px;
+  margin: 0 5px 0 0;
+  cursor: pointer;
+  transition: all .3s;
+}
+
+button:hover {
+  background: lightslategray;
+  border: 1px solid lightslategray;
+  color: #fff;
+}
